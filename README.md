@@ -12,7 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aquí
 
 Miembros
  * :bust_in_silhouette:   Sergio Hervás Cobo     :octocat:     
