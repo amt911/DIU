@@ -25,6 +25,15 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+
+|Fila1 | Fila2 | Fila3 | Fila4 |
+|-|-|-|-
+1|2|3|1
+4|5|6|1
+4|5|6|1
+4|5|6|1
+4|5|6|1
+
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
