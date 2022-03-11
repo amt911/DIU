@@ -26,13 +26,24 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-|Fila1 | Fila2 | Fila3 | Fila4 |
+|Características | LemonRock | TOCHostels | BlueSockHostels |
 |-|-|-|-
-1|2|3|1
-4|5|6|1
-4|5|6|1
-4|5|6|1
-4|5|6|1
+Eventos Culturales |Sí|No|No
+Opción de habitaciones convencionales|No|Sí|Sí
+Reserva Online|Sí|Sí|Sí
+Wi-Fi|No|Sí|Sí
+Disponibilidad de varios idiomas|Sí|No|Sí
+Recepción 24 horas|No|No|Sí
+Habitaciones adaptadas|No|No (no c)|Sí
+Habitaciones femeninas|No|Sí|Sí
+Bar/Cafetería|Sí|Sí|Sí
+Cocina en la habitación|No|Sí|No
+Lavadora|No|Sí|No
+Taquillas|No|Sí|Sí
+Ambiente identificativo|Sí|No|No
+Redes Sociales|Sí|Sí|Sí
+
+
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 ![Método UX](img/Persona.png) 1.b Persona
