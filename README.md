@@ -42,6 +42,7 @@ Lavadora|No|Sí|No
 Taquillas|No|Sí|Sí
 Ambiente identificativo|Sí|No|No
 Redes Sociales|Sí|Sí|Sí
+FAQ|No|Sí|No
 
 
 
