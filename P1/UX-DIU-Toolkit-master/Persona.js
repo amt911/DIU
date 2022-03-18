@@ -17,7 +17,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU1_Estrellas";
         $scope.Curso ="2021/22";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -33,36 +33,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Rory Trey",
 				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Quote: "Trust the timing of your life",
+				Age: 31,
+				Occupation: "Guía turístico para una agencia turística irlandesa",
+				Family: "Con pareja desde hace 6 meses",
+				Location: "Granada capital",
+				Character: "Le gusta la historia, el arte, salir y conocer gente y la música de los 80",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Visitar nuevos lugares de España", "Encontrar un trabajo como profesor de inglés para obtener más estabilidad", "Le gustaría comprarse una vivienda en Granada para quedarse a vivir aquí con su pareja"],
+				Frustrations: ["Echa de menos a su familia", "Le gustaría hablar español de manera más fluida", "Le gustaría vivir en un lugar más espacioso y con más luz"],
+				Bio: "Es de Dublin y lo destinaron en el trabajo a Granada hace 1 año como guía turístico para los viajeros irlandeses. Conoció a su pareja en una visita turística a los 6 meses de estar en Granada. Dio clases de español en la escuela y eso le motivó a interesarse más por la cultura española; tanto que había visitado más de una vez distintas partes de España antes de venir por trabajo.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Se acerca Navidad y como es temporada baja quiere aprovechar sus vacaciones para viajar con su pareja y de paso visitar a su familia.",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Publicidad Tradicional", Value: 2 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
