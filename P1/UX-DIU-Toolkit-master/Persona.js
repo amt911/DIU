@@ -74,14 +74,14 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Olga Patiño",
 				Photo: "woman.png",
 				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Age: 20,
+				Occupation: "Estudiante de Magisterio en la UGR",
+				Family: "Soltera. Vive con sus padres.",
+				Location: "Albolote (Granada)",
+				Character: "no c",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
