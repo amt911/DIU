@@ -27,16 +27,17 @@ Miembros
 -----
 
 |Características | LemonRock | TOCHostels | BlueSockHostels |
-|-|-|-|-
+|-|:-:|:-:|:-:
 Eventos Culturales |Sí|No|No
 Opción de habitaciones convencionales|No|Sí|Sí
 Reserva Online|Sí|Sí|Sí
 Wi-Fi|No|Sí|Sí
-Disponibilidad de varios idiomas|Sí|No|Sí
+Disponibilidad de varios idiomas|No|Sí|Sí
 Recepción 24 horas|No|No|Sí
-Habitaciones adaptadas|No|No (no c)|Sí
+Habitaciones adaptadas|No|No|Sí
 Habitaciones femeninas|No|Sí|Sí
 Bar/Cafetería|Sí|Sí|Sí
+Restaurante|Sí|No|No
 Cocina en la habitación|No|Sí|No
 Lavadora|No|Sí|No
 Taquillas|No|Sí|Sí

@@ -76,34 +76,34 @@ angular.module("angular", [])
 				Id: 1,
 				Name: "Olga Patiño",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
+				Quote: "SUeña pero no te duermas",
 				Age: 20,
 				Occupation: "Estudiante de Magisterio en la UGR",
 				Family: "Soltera. Vive con sus padres.",
 				Location: "Albolote (Granada)",
-				Character: "no c",
+				Character: "Ama los juegos de mesa y las fiestas entre amigos antes que las discotecas, y si son temáticas mejor.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Quiere vivir la experiencia de Sicue un cuatrimestre.","Le encantaría viajar con sus amigas y conocer el norte de España","Dar las prácticas en su antiguo instituto","Poder aprobar las oposiciones a la primera"],
+				Frustrations: ["El dinero no abunda en su familia y dependen de las becas que le dan para estudiar.", "La mayoría de gente de su clase hablan y molestan en las clases y ningún profesor les dice nada .", "Le estresa depender del metro para ir a la universidad."],
+				Bio: "Es una chica de Albolote que desde chica quería dedicarse a la educación. Como se le daban bien los estudios pensó en hacer matemáticas y luego el máster para profesora. Sin embargo no le gustó la carrera y decidió ir a por magisterio directamente donde conoció amigas con las que congenia muy bien.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
+					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "Móvil", Value: 3 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Ha terminado una semana llena de examenes y está cansada pero contenta porque tiene alo de tiempo libre." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
