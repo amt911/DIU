@@ -89,7 +89,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
 				Goals: ["Quiere vivir la experiencia de Sicue un cuatrimestre.","Le encantaría viajar con sus amigas y conocer el norte de España","Dar las prácticas en su antiguo instituto","Poder aprobar las oposiciones a la primera"],
-				Frustrations: ["El dinero no abunda en su familia y dependen de las becas que le dan para estudiar.", "La mayoría de gente de su clase hablan y molestan en las clases y ningún profesor les dice nada .", "Le estresa depender del metro para ir a la universidad."],
+				Frustrations: ["El dinero no abunda en su familia y depende de las becas que le dan para estudiar.", "La mayoría de gente de su clase habla y molesta en las clases y ningún profesor les dice nada.", "Le estresa depender del metro para ir a la universidad."],
 				Bio: "Es una chica de Albolote que desde chica quería dedicarse a la educación. Como se le daban bien los estudios pensó en hacer matemáticas y luego el máster para profesora. Sin embargo no le gustó la carrera y decidió ir a por magisterio directamente donde conoció amigas con las que congenia muy bien.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },

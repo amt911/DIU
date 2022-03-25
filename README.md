@@ -19,10 +19,12 @@ Miembros
  * :bust_in_silhouette:  Andrés Merlo Trujillo     :octocat:
  * :bust_in_silhouette:  Javier Serrano Lucas     :octocat:
 
------ 
+-----
 
-# Proceso de Diseño 
+# Proceso de Diseño
+
 ## Paso 1. UX Desk Research & Analisis 
+
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
@@ -45,22 +47,38 @@ Ambiente identificativo|Sí|No|No
 Redes Sociales|Sí|Sí|Sí
 FAQ|No|Sí|No
 
+>Teniendo en cuenta que el establecimiento Lemon Rock ya no es considerado un hostel (dejó de brindar este servicio hace un tiempo), creemos que es un lugar con una identidad y temática muy marcada (underground, indie…). La apariencia de la “marca” es realmente auténtica y define a la perfección el lugar.
+Además, parece que se han reinventado correctamente haciendo del local un lugar con una experiencia única gracias a los eventos culturales que se realizan en ellos. Al ofrecer distintos servicios en el mismo local, lo consideramos un lugar multiusos donde puede haber desde una fiesta temática o concierto hasta una degustación de platos especiales, potenciado por las distintas salas y estancias que posee en su interior.
+También aparenta ser un sitio moderno, joven y cómodo, donde una pareja o grupo de amigos pueden pasar un buen rato hablando y disfrutando del momento.
+La página web sigue la misma línea y pretende plasmar todo lo mencionado hasta ahora: ser un sitio donde evadirse del exterior. 
 
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-![Método UX](img/Persona.png) 1.b Persona
 -----
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>![Rory](P1/Rory%20Trey.png)
+**Rory Trey**
+Para el primer personaje (Rory) hemos pensado en un hombre irlandés que vino a Granada por motivos laborales y le gustó tanto que ha decidido quedarse a vivir aquí. Además, ha encontrado el amor y eso le ha motivado aún más a permanecer en la capital. Como no lleva mucho tiempo en la ciudad, quiere conocer gente nueva y su carácter extrovertido le anima a salir por lugares con buen ambiente sólo o con su pareja.
+-----
+>![Rory](P1/Olga%20Patiño.png)
+**Olga Patiño**
+En cuanto a Olga, el segundo personaje, queríamos un enfoque distinto al anterior y elegimos la figura de una chica universitaria que está estudiando magisterio. Es sociable y siempre que sale es con su grupo de amigos de la carrera. No le gusta ir a las discotecas por el ruido y la muchedumbre.
+-----
+>![Rory Journey Map](P1/Rory%20Journey%20Map.png)
+**Journey Map de Rory**
+Para el primer journey map hemos pensado en el caso de alguien que quiere desconectar después de un duro día de trabajo. Al ser una persona nueva en la ciudad, aún no dispone de vehículo privado y se tiene que desplazar en transporte público. Consideremos realista este ejemplo pues Granada es una ciudad que atrae mucha gente del extranjero y el Lemon Rock tiene un ambiente muy amigable para ellos (música, fiestas temáticas…)
+-----
+>![Olga Journey Map](P1/Olga%20Journey%20Map.png)
+**Journey Map de Olga**
+Para el segundo journey map hemos pensado en el caso común de una universitaria que tras una dura semana de exámenes quiere pasar un rato con sus amigos en un lugar tranquilo para charlar, tomar algo, jugar juegos, etc. Se ha tenido en cuenta que los universitarios son personas con presupuesto ajustado por lo que a la hora de comer se decide ir a otro lado por los elevados precios del local.
+-----
+> **Revisión de usabilidad:**
+>>
+>> * Enlace al documento: <https://github.com/amt911/DIU-Estrellas/blob/master/P1/Usability-review-template.xlsx%20-%20Valoraci%C3%B3n%20Usabilidad.pdf>
+>>
+>> * Valoración final (numérica): **77**
+>>
+>> * Comentario sobre la valoración: La estética de la página web es acorde al ambiente que se pretende encontrar en el local.
+La experiencia del usuario navegando por el sitio web es cómoda, amigable y consistente, pudiendo acceder a las principales motivaciones del lugar de forma directa y rápida. Sin embargo, la aplicación presenta ciertas inconsistencias para la experiencia de usuario, por ejemplo, el apartado de próximos conciertos aparece tanto en la barra de menú como en el inicio con nombres distintos. También, el menú de reservas lleva a una página distinta mientras que en la página de inicio no. Por último, la información de contacto aparece en fondo amarillo y letras blancas lo que hace más difícil su lectura. Pero son aspectos que no son tan relevantes como para reducir de forma significativa la experiencia de usuario. 
+
 ## Paso 2. UX Design  
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
