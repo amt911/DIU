@@ -1,17 +1,17 @@
 # DIU22
-Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
+Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels)
 
-Grupo: DIU1_Estrellas.  Curso: 2021/22 
+Grupo: DIU1_Estrellas.  Curso: 2021/22
 Updated: 11/2/2022
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto:
+>>> Decida el nombre corto de su propuesta en la práctica 2
 
-Descripción: 
+Descripción:
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2
 
-Logotipo: 
+Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aquí
 
 Miembros
@@ -23,7 +23,7 @@ Miembros
 
 # Proceso de Diseño
 
-## Paso 1. UX Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
@@ -50,7 +50,7 @@ FAQ|No|Sí|No
 >Teniendo en cuenta que el establecimiento Lemon Rock ya no es considerado un hostel (dejó de brindar este servicio hace un tiempo), creemos que es un lugar con una identidad y temática muy marcada (underground, indie…). La apariencia de la “marca” es realmente auténtica y define a la perfección el lugar.
 Además, parece que se han reinventado correctamente haciendo del local un lugar con una experiencia única gracias a los eventos culturales que se realizan en ellos. Al ofrecer distintos servicios en el mismo local, lo consideramos un lugar multiusos donde puede haber desde una fiesta temática o concierto hasta una degustación de platos especiales, potenciado por las distintas salas y estancias que posee en su interior.
 También aparenta ser un sitio moderno, joven y cómodo, donde una pareja o grupo de amigos pueden pasar un buen rato hablando y disfrutando del momento.
-La página web sigue la misma línea y pretende plasmar todo lo mencionado hasta ahora: ser un sitio donde evadirse del exterior. 
+La página web sigue la misma línea y pretende plasmar todo lo mencionado hasta ahora: ser un sitio donde evadirse del exterior.
 
 
 -----
@@ -77,28 +77,45 @@ Para el segundo journey map hemos pensado en el caso común de una universitaria
 >> * Valoración final (numérica): **77**
 >>
 >> * Comentario sobre la valoración: La estética de la página web es acorde al ambiente que se pretende encontrar en el local.
-La experiencia del usuario navegando por el sitio web es cómoda, amigable y consistente, pudiendo acceder a las principales motivaciones del lugar de forma directa y rápida. Sin embargo, la aplicación presenta ciertas inconsistencias para la experiencia de usuario, por ejemplo, el apartado de próximos conciertos aparece tanto en la barra de menú como en el inicio con nombres distintos. También, el menú de reservas lleva a una página distinta mientras que en la página de inicio no. Por último, la información de contacto aparece en fondo amarillo y letras blancas lo que hace más difícil su lectura. Pero son aspectos que no son tan relevantes como para reducir de forma significativa la experiencia de usuario. 
+La experiencia del usuario navegando por el sitio web es cómoda, amigable y consistente, pudiendo acceder a las principales motivaciones del lugar de forma directa y rápida. Sin embargo, la aplicación presenta ciertas inconsistencias para la experiencia de usuario, por ejemplo, el apartado de próximos conciertos aparece tanto en la barra de menú como en el inicio con nombres distintos. También, el menú de reservas lleva a una página distinta mientras que en la página de inicio no. Por último, la información de contacto aparece en fondo amarillo y letras blancas lo que hace más difícil su lectura. Pero son aspectos que no son tan relevantes como para reducir de forma significativa la experiencia de usuario.
 
 ## Paso 2. UX Design  
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
+
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Scope Canvas](P2/Scope.png)
+>  Hemos pensado en aprovechar que el Lemon Rock ya no tiene servicio de hostel como tal y hemos considerado buena idea la reapertura de las habitaciones. Se pretende crear un microsite para la promoción de este proyecto y la reserva de las habitaciones con ofertas muy llamativas.
+![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
->>> Definir "User Map" y "Task Flow" ... 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+|Grupo de usuarios | Joven | Persona edad media | Persona edad avanzada |
+|-|:-:|:-:|:-:
+|Realizar reserva   | H | M | L |
+|Cancelar reserva   | H | M  | L |
+|Consultar reserva   | H | M | L |
+|Consultar ofertas   | H | M | L |
+|Consultar habitaciones disponibles   | H  | M  | L |
+|Puntuar habitación   | H | M | L |
+|Dejar reseña de habitación | H  |  M | L  |
+|Compartir en redes | H |  L  | L |
+|Contactar con el soporte | L |  M  | H |
+|Elegir idioma| L | H | H |
+|Consultar las RRSS   | H | H | L |
+|Consultar FAQ   | M | H | H |
+|Registro de usuarios   | H | M | L |
+
+>>> Definir "User Map" y "Task Flow" ...
+![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 >>> Identificar términos para diálogo con usuario  
 Término | Significado     
@@ -106,20 +123,20 @@ Término | Significado
   Login¿?  | acceder a plataforma
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación )
 ## Paso 3. Mi UX-Case Study (diseño)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard)
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
->>> Plantear Landing Page 
+>>> Plantear Landing Page
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Estudio de Guidelines y Patrones IU a usar
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
@@ -127,37 +144,37 @@ Término | Significado
 -----
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-## Paso 4. Evaluación 
+## Paso 4. Evaluación
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Adjuntar captura de imagen con los resultados + Valoración personal
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
->>> Valoración personal 
+>>> Valoración personal
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
+>>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 >>>> ----
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+>>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
+>>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
+>>> 5.b) Uso de simuladores de accesibilidad
+>>> (uso de tabla de datos, indicar herramientas usadas)
 >>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 ## Conclusión final / Valoración de las prácticas
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
