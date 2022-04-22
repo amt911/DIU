@@ -98,25 +98,13 @@ La experiencia del usuario navegando por el sitio web es cómoda, amigable y con
 >  Hemos pensado en aprovechar que el Lemon Rock ya no tiene servicio de hostel como tal y hemos considerado buena idea la reapertura de las habitaciones. Se pretende crear un microsite para la promoción de este proyecto y la reserva de las habitaciones con ofertas muy llamativas.
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
-|Grupo de usuarios | Joven | Persona edad media | Persona edad avanzada |
-|-|:-:|:-:|:-:
-|Realizar reserva   | H | M | L |
-|Cancelar reserva   | H | M  | L |
-|Consultar reserva   | H | M | L |
-|Consultar ofertas   | H | M | L |
-|Consultar habitaciones disponibles   | H  | M  | L |
-|Puntuar habitación   | H | M | L |
-|Dejar reseña de habitación | H  |  M | L  |
-|Compartir en redes | H |  L  | L |
-|Contactar con el soporte | L |  M  | H |
-|Elegir idioma| L | H | H |
-|Consultar las RRSS   | H | H | L |
-|Consultar FAQ   | M | H | H |
-|Registro de usuarios   | H | M | L |
+![Tabla](P2/tabla.png)
 
 >>> Definir "User Map" y "Task Flow" ...
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
+![Diagrama](P2/diagrama.png)
+
 >>> Identificar términos para diálogo con usuario  
 Término | Significado     
 | ------------- | -------
