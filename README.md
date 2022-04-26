@@ -5,11 +5,12 @@ Grupo: DIU1_Estrellas.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto:
->>> Decida el nombre corto de su propuesta en la práctica 2
+> El regreso del hostel
 
 Descripción:
 
->>> Describa la idea de su producto en la práctica 2
+> Describa la idea de su producto en la práctica 2
+Para esta práctica hemos pensado en reabrir el servicio de hostel original, aprovechando que el Lemon Rock dejó de serlo hace un tiempo. Para ello pensamos en realizar un microsite donde los usuarios puedan informarse de la reapertura de las habitaciones de hospedaje, además de poder reservar y encontrar ofertas inigualables.
 
 Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aquí
@@ -134,7 +135,11 @@ La experiencia del usuario navegando por el sitio web es cómoda, amigable y con
 >![Reserva](P2/reserva.png)
 >**Página para reservar**
 
+## Conclusiones
+>Consideramos que esta etapa ha sido realmente interesante porque por primera vez hemos profundizado en el concepto de la interacción humano-máquina y hemos tenido que plantear aspectos de diseño vistos en teoría que nos han sido útiles para la realización de los distintos bocetos.
 -----
+
+
 ## Paso 3. Mi UX-Case Study (diseño)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
