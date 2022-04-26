@@ -82,11 +82,12 @@ La experiencia del usuario navegando por el sitio web es cómoda, amigable y con
 ## Paso 2. UX Design  
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
 
+>![Mapa de empatia Olga](P2/em_olga.png)
+>**Mapa de empatía para Olga**
+
+>![Mapa de empatia Olga](P2/em_rory.png)
+>**Mapa de empatía para Rory**
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
@@ -95,23 +96,45 @@ La experiencia del usuario navegando por el sitio web es cómoda, amigable y con
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 ![Scope Canvas](P2/Scope.png)
->  Hemos pensado en aprovechar que el Lemon Rock ya no tiene servicio de hostel como tal y hemos considerado buena idea la reapertura de las habitaciones. Se pretende crear un microsite para la promoción de este proyecto y la reserva de las habitaciones con ofertas muy llamativas.
-![Método UX](img/Sitemap.png) 2.b Tasks analysis
+>  Hemos pensado en hacer una reapertura del servicio de hostel que tenía al principio el Lemon Rock aprovechando todavía la infraestructura que tiene montada. De esta manera se extienden el tipo de eventos que se pueden hacer, ya que los clientes pueden quedarse allí después de espectáculos que se extiendan mucho en la noche, además de poder mantener las ganancias que producen los clientes al quedarse allí más tiempo.
+>Esto no solo haría crear el nicho de mercado actual, ya que las personas que no iban a los eventos por no vivir cerca ya podrían quedarse, si no que se obtendrían clientes que aunque no estén interesados en los servicios de restaurante/eventos, si quieran aprovechar el servicio de hostel. Además aumentaría el potencial del servicio de restaurantes, ya que se podrían incluir un servicio de desayuno que se puede contratar si decides hospedarte en una de las habitaciones del hostel.
 -----
+>![Método UX](img/Sitemap.png) 2.b Tasks analysis
 ![Tabla](P2/tabla.png)
 
->>> Definir "User Map" y "Task Flow" ...
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
-----
+>![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ![Diagrama](P2/diagrama.png)
+----
+| Label | Scope Note |
+| - | - |
+| Inicio | Proporciona una vista general con la información relacionada al evento. |
+| Registro  | Una ventana emergente para que el visitante de la web pueda registrar su usuario en el sistema  |
+| Ofertas | Página donde se encuentran todas las ofertas actuales junto con la fecha de reserva de la propia oferta. |
+| Habitaciones | Página donde el usuario podrá encontrar las habitaciones que mejor se adapten y estén disponibles para él en función de las fechas de llegada y salida y el número de huéspedes |
+| FAQ | Un conjunto de apartados con las preguntas más frecuentes que los usuarios puedan tener sobre el sitio web |
+| Sobre nosotros | Una descripción sobre el personal y el establecimiento con el correspondiente contacto por otros medios |
+| Login | Una ventana emergente para que el visitante registrado pueda identificarse en el sistema |
+| Mi perfil | Página en la que se encuentra la información del usuario. |
+| Mis reservas | Página en la que se encuentran las reservas actuales de un usuario junto con el historial de reservas. |
+| Reservar | Página de la habitación deseada donde el usuario podrá proceder a la reserva de esta, además de ver sus comentarios y características |
+| Pagar | Es donde se realiza el pago de una reserva, se supone que es segura. |
 
->>> Identificar términos para diálogo con usuario  
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-![Método UX](img/Wireframes.png) 2.d Wireframes
+
+>![Método UX](img/Wireframes.png) 2.d Wireframes
+>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+>![Inicio](P2/inicio.png)
+>**Página de inicio**
 -----
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+>![Habitaciones](P2/habitaciones.png)
+>**Página de habitaciones**
+-----
+>![Ofertas](P2/ofertas.png)
+>**Página de ofertas**
+-----
+>![Reserva](P2/reserva.png)
+>**Página para reservar**
+
+-----
 ## Paso 3. Mi UX-Case Study (diseño)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
