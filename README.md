@@ -107,18 +107,18 @@ La experiencia del usuario navegando por el sitio web es cómoda, amigable y con
 ![Diagrama](P2/diagrama.png)
 ----
 | Label | Scope Note |
-| - | - |
-| Inicio | Proporciona una vista general con la información relacionada al evento. |
-| Registro  | Una ventana emergente para que el visitante de la web pueda registrar su usuario en el sistema  |
-| Ofertas | Página donde se encuentran todas las ofertas actuales junto con la fecha de reserva de la propia oferta. |
-| Habitaciones | Página donde el usuario podrá encontrar las habitaciones que mejor se adapten y estén disponibles para él en función de las fechas de llegada y salida y el número de huéspedes |
-| FAQ | Un conjunto de apartados con las preguntas más frecuentes que los usuarios puedan tener sobre el sitio web |
-| Sobre nosotros | Una descripción sobre el personal y el establecimiento con el correspondiente contacto por otros medios |
-| Login | Una ventana emergente para que el visitante registrado pueda identificarse en el sistema |
-| Mi perfil | Página en la que se encuentra la información del usuario. |
-| Mis reservas | Página en la que se encuentran las reservas actuales de un usuario junto con el historial de reservas. |
-| Reservar | Página de la habitación deseada donde el usuario podrá proceder a la reserva de esta, además de ver sus comentarios y características |
-| Pagar | Es donde se realiza el pago de una reserva, se supone que es segura. |
+| :-: | - |
+| <img src="P2/home.png" width="50px"/><br/> Inicio | Proporciona una vista general con la información relacionada al evento. |
+| <img src="P2/signup.png" width="50px"/><br/>Registro  | Una ventana emergente para que el visitante de la web pueda registrar su usuario en el sistema  |
+| <img src="P2/oferta.png" width="50px"/><br/>Ofertas | Página donde se encuentran todas las ofertas actuales junto con la fecha de reserva de la propia oferta. |
+| <img src="P2/habitaciones_icono.png" width="50px"/><br/>Habitaciones | Página donde el usuario podrá encontrar las habitaciones que mejor se adapten y estén disponibles para él en función de las fechas de llegada y salida y el número de huéspedes |
+| <img src="P2/FAQ.png" width="50px"/><br/>FAQ | Un conjunto de apartados con las preguntas más frecuentes que los usuarios puedan tener sobre el sitio web |
+| <img src="P2/about.png" width="50px"/><br/>Sobre nosotros | Una descripción sobre el personal y el establecimiento con el correspondiente contacto por otros medios |
+| <img src="P2/login.png" width="50px"/><br/>Login | Una ventana emergente para que el visitante registrado pueda identificarse en el sistema |
+| <img src="P2/profile.png" width="50px"/><br/>Mi perfil | Página en la que se encuentra la información del usuario. |
+| <img src="P2/history.png" width="50px"/><br/>Mis reservas | Página en la que se encuentran las reservas actuales de un usuario junto con el historial de reservas. |
+| <img src="P2/reservar.png" width="50px"/><br/>Reservar | Página de la habitación deseada donde el usuario podrá proceder a la reserva de esta, además de ver sus comentarios y características |
+| <img src="P2/cc.png" width="50px"/><br/>Pagar | Es donde se realiza el pago de una reserva, se supone que es segura. |
 
 
 >![Método UX](img/Wireframes.png) 2.d Wireframes
