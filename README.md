@@ -148,27 +148,27 @@ La experiencia del usuario navegando por el sitio web es cómoda, amigable y con
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard)
 >>> Incluir Logotipo
 >>> Hemos utilizado la herramienta "designevo" para la creación del logotipo. La resolución de este es cuadrada para poder colocarla como imagen de perfil en las distintas redes sociales. En la cabecera/encabezado de estas, consideramos más idóneo colocar una imagen del propio hostel.
+----
 ![Método UX](img/landing-page.png)  3.b Landing Page
+>  ![Guideline](P3/images/guideline.png)
+>> https://preview.webflow.com/preview/sergios-fresh-site-c0d72a?utm_medium=preview_link&utm_source=designer&utm_content=sergios-fresh-site-c0d72a&preview=fab98fd2562e6c94b902a4ffb69d0bcc&workflow=preview
+
 ----
->>> Plantear Landing Page
 ![Método UX](img/guidelines.png) 3.c Guidelines
-https://preview.webflow.com/preview/sergios-fresh-site-c0d72a?utm_medium=preview_link&utm_source=designer&utm_content=sergios-fresh-site-c0d72a&preview=fab98fd2562e6c94b902a4ffb69d0bcc&workflow=preview
-----
->>> Estudio de Guidelines y Patrones IU a usar
+> Estudio de Guidelines y Patrones IU a usar
 - **Paleta de colores:** Hemos empleado el esquema de colores analógos para realizar la paleta de colores. 
 Como color principal hemos elegido el amarillo, color muy representativo del local. Transmite una sensación estimulante y de felicidad, además de llamar la atención de todos los visitantes de la página.
-
 Como colores secundarios hemos escogido el naranja y el verde, análogos al amarillo para mantener uniformidad y marcar zonas de contraste. El verde produce naturalidad y energía relajante en la web, mientras que el naranja transmite energía y diversión. Una mezcla que combina muy bien con el cometido del establecimiento: relajación en las habitaciones y diversión en los conciertos y en el restaurante.
-
 Además, también estará presente el verde oscuro y el gris claro para que las zonas de información sean más agradables y legibles, permitiendo así descansar la vista.
 
 ![Colores](P3/images/colores1.png)
 
 - **Carousel:** Este patrón se aplica cuando un usuario necesita buscar sobre una lista de elementos. Una de sus utilidades es usarlo cuando se tiene una gran lista de objetos para mostrar pero se pretende que el usuario concentre su atención en uno solo. En nuestro caso, se ha utilizado para mostrar las distintas fotografías de la habitación correspondiente en la web de reservas.
 
-- **Product Page:**Hemos usado el patrón de página de producto para mostrar información sobre la habitación elegida,tanto para realizar la reserva como para mostrar la información detellada de esta.Para reforzar este propósito la página a parte de contener el precio, la foto de la habitación y el botón para confirmar reserva, se incluirá en carrusel de fotos, mencionados anteriormente,iconos e información de cada servicio propio de la habitación y una sección de comentarios para que el resto de usuarios pueda ver las reseñas de los anteriores usuarios.
+- **Product Page**: Hemos usado el patrón de página de producto para mostrar información sobre la habitación elegida,tanto para realizar la reserva como para mostrar la información detellada de esta.Para reforzar este propósito la página a parte de contener el precio, la foto de la habitación y el botón para confirmar reserva, se incluirá en carrusel de fotos, mencionados anteriormente,iconos e información de cada servicio propio de la habitación y una sección de comentarios para que el resto de usuarios pueda ver las reseñas de los anteriores usuarios.
 
 
+----
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
