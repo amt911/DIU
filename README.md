@@ -163,6 +163,10 @@ Además, también estará presente el verde oscuro y el gris claro para que las 
 
 ![Colores](P3/images/colores1.png)
 
+- **Iconografía:** Hemos optado por usar una iconografía simple, minimalista, pero clara y concisa que refuerce de manera correcta el texto referenciado para que el usuario reconozca rápidamente de que trata cada sección de la página. 
+
+- **Fuentes:** Hemos elegido la fuente Roboto como fuente para el texto más descriptivo de la web, ya que es fácil de leer y el estilo casa bien con la temática y el ambiente del Hostel.Además hemos optado por la fuente ebas neue para los títulos, ya que es una fuente más grande y con fuerza que consigue resaltarlos con facilidad para que el usuario pueda diferenciar el contenido más destacable.
+
 - **Carousel:** Este patrón se aplica cuando un usuario necesita buscar sobre una lista de elementos. Una de sus utilidades es usarlo cuando se tiene una gran lista de objetos para mostrar pero se pretende que el usuario concentre su atención en uno solo. En nuestro caso, se ha utilizado para mostrar las distintas fotografías de la habitación correspondiente en la web de reservas.
 
 - **Product Page**: Hemos usado el patrón de página de producto para mostrar información sobre la habitación elegida,tanto para realizar la reserva como para mostrar la información detellada de esta.Para reforzar este propósito la página a parte de contener el precio, la foto de la habitación y el botón para confirmar reserva, se incluirá en carrusel de fotos, mencionados anteriormente,iconos e información de cada servicio propio de la habitación y una sección de comentarios para que el resto de usuarios pueda ver las reseñas de los anteriores usuarios.
@@ -171,11 +175,19 @@ Además, también estará presente el verde oscuro y el gris claro para que las 
 ----
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+> ![Inicio](P3/images/login.png)
+> Pantalla de registro
+
+> ![Registro](P3/images/registro.png)
+> Pantalla de login
+
+> ![Pagina inicio](P3/images/home.gif)
+> Pantalla principal
+
+> ![Pagina inicio](P3/images/ofertas.gif)
+> Página de ofertas
+
+> Para acceder a la página completa, se encuentra en el siguiente enlace: https://cloud.protopie.io/p/8e142d8b0e
 ## Paso 4. Evaluación
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
