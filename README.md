@@ -181,7 +181,7 @@ Además, también estará presente el verde oscuro y el gris claro para que las 
 > ![Registro](P3/images/registro.png)
 > Pantalla de login
 
-> ![Pagina inicio](P3/images/home.gif)
+> ![Pagina inicio](P3/images/inicio.gif)
 > Pantalla principal
 
 > ![Pagina inicio](P3/images/ofertas.gif)
