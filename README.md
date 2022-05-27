@@ -198,10 +198,10 @@ Además, también estará presente el verde oscuro y el gris claro para que las 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
+| Mariano  | H / 18   | Estudiante  | Alta       | Alegre y extrovertido | Movil       | A
+| Maria Angustias  | M / 35   | Profesora de instituto     | Media        | Calmada y serena    | Móvil      | A
+| Eustaquio  | H / 58   | Fotógrafo  | Media/Baja       |    Irascible y serio    | Web        | B
+| Olga  | H / 22   | Estudiante  | Alta       |  Inquieta y risueña     |Móvil        | B
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
