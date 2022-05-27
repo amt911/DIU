@@ -196,12 +196,17 @@ Además, también estará presente el verde oscuro y el gris claro para que las 
 ----
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Mariano  | H / 18   | Estudiante  | Alta       | Alegre y extrovertido | Movil       | A
-| Maria Angustias  | M / 35   | Profesora de instituto     | Media        | Calmada y serena    | Móvil      | A
-| Eustaquio  | H / 58   | Fotógrafo  | Media/Baja       |    Irascible y serio    | Web        | B
-| Olga  | H / 22   | Estudiante  | Alta       |  Inquieta y risueña     |Móvil        | B
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC   | Plataforma | Perfil cubierto | Test | SUS score |
+| ------------- | -------- | ----------- | ----------- | ---------- | --------- | ---- | -----
+| Mariano  | H / 18   | Estudiante  | Alta    | Hijo mayor de la familia, deportista y estado de ánimo triste  | Movil       | A | 
+| Maria Angustias  | M / 35   | Profesora de instituto     | Media        | Móvil |  Persona adulta, le gusta bailar y estado de ánimo enfadada  | A | 
+| Eustaquio  | H / 58   | Jubilado  | Media/Baja       |     Web    |   Persona mayor, le gusta la fotografía y estado de ánimo feliz   | B |     
+| Olga  | H / 22   | Estudiante  | Alta       |   Móvil   |    Joven en un grupo de amigas, le gusta salir de fiesta y bailar y estado de ánimo alegre     | B |       
+
+
+Puntos vitales:
+- Mariano
+-- 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
