@@ -191,39 +191,40 @@ Además, también estará presente el verde oscuro y el gris claro para que las 
 ## Paso 4. Evaluación
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El caso asignado es Lima Housing del grupo DS_Sigma. Trata del regreso de las habitaciones con distintas temáticas con un lavado de cara en cuanto al nombre y a la estética. https://github.com/SigmaDIU1/DIU 
+
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC   | Plataforma | Perfil cubierto | Test | SUS score |
 | ------------- | -------- | ----------- | ----------- | ---------- | --------- | ---- | -----
-| Mariano  | H / 18   | Estudiante  | Alta    | Hijo mayor de la familia, deportista y estado de ánimo triste  | Movil       | A | 
-| Maria Angustias  | M / 35   | Profesora de instituto     | Media        | Móvil |  Persona adulta, le gusta bailar y estado de ánimo enfadada  | A | 
-| Eustaquio  | H / 58   | Jubilado  | Media/Baja       |     Web    |   Persona mayor, le gusta la fotografía y estado de ánimo feliz   | B |     
-| Olga  | H / 22   | Estudiante  | Alta       |   Móvil   |    Joven en un grupo de amigas, le gusta salir de fiesta y bailar y estado de ánimo alegre     | B |       
+| Mariano  | H / 18   | Estudiante  | Alta    | Movil  |   Hijo mayor de la familia, deportista y estado de ánimo triste | A | 85
+| Maria Angustias  | M / 35   | Profesora de instituto     | Media        | Móvil |  Persona adulta, le gusta bailar y estado de ánimo enfadada  | A | 72.5 
+| Eustaquio  | H / 58   | Jubilado  | Media/Baja       |     Web    |   Persona mayor, le gusta la fotografía y estado de ánimo feliz   | B | 70     
+| Olga  | M / 22   | Estudiante  | Alta       |   Móvil   |    Joven en un grupo de amigas, le gusta salir de fiesta y bailar y estado de ánimo alegre     | B | 82.5
 
 
-Puntos vitales:
-- Mariano
--- 
+
+*Puntos vitales/Necesidades:**
+- Mariano: está buscando un sitio para ir con sus amigos y poder desconectar. Está triste y piensa que le viene bien salir pero no busca una discoteca ni mucho barullo porque tiene que estudiar para selectividad. Espera de la página web un sitio rápido y que le guste, aunque no busca reservar habitaciones si que entrará en la web para acceder a la información de los eventos y del bar.
+
+- Maria Angustias está estresada por el trabajo, los niños a los que da clase la agotan durante el día. Ahora que ha llegado el fin de semana busca un sitio donde ir con su pareja para bailar y la opción de poder quedarse allí a dormir les encanta ya que viven en un pueblo de Granada lejos de la capital y no quieren coger el coche por la noche. Busca una aplicación sencilla que le permita reservar habitaciones con tranquilidad y sin problemas que le dificulten el proceso o le haga perder tiempo.
+
+- Eustaquio se acaba de jubilar por baja médica. Está encantado y quiere aprovechar el tiempo que no ha tenido estos años para divertirse y ha escuchado que hay un evento de jazz en el hostel y quiere ir con algunos de sus colegas del antiguo trabajo. No se quedarán a dormir ya que a ninguno le gusta dormir en ese tipo de camas y pueden volver en metro a casa sin problema. Quiere que la aplicación web sea sencilla de manejar y pueda ser usada por personas de su edad. 
+
+- Olga y sus amigas están de puente y no necesitan ir a la universidad(son de cordoba) y han pensado hacer una visita a Granada. No van con mucho presupuesto y lo que tienen se lo van a gastar en salir por la noche. Como son un grupo han pensado en aprovechar la reapertura del hostel y coger una habitación para todas y así pasar la noche allí sin tener que ir muy lejos al lugar donde dormir ya que no conocen mucho la ciudad. Quiere que la página web le facilite la reserva de habitaciones en grupo y le permita ver las fotos y las reseñas de los usuarios antes de reservar.
+
+
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Cuestionario SUS](img/SUS.png)
+
+Tanto en el test A como en el B salen salen notas bastante parecidas entre el rango C y B. Aunque la web del Lima Housing esté algo más completa, una de las personas que la valora no está dentro del target del local y eso hace que la muestra no sea representativa, mientras que en el test A ambos son potenciales clientes y las notas del test salen más altas en general. Por tanto, siendo sinceros nos quedaríamos con la opción de nuestros compañeros teniendo en cuenta la completitud de la web. Aunque ambas son bastante sencillas de manejar e intuitivas de acuerdo a la usabilidad.
+
 ----
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar captura de imagen con los resultados + Valoración personal
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
->> Añadir report de usabilidad para práctica B (la de los compañeros)
->>> Valoración personal
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
->>>> ----
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
->>> 5.b) Uso de simuladores de accesibilidad
->>> (uso de tabla de datos, indicar herramientas usadas)
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-## Conclusión final / Valoración de las prácticas
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+> Nuestro usability report se puede ver en el siguiente enlace: [Usability Report](P4/UsabilityReport.pdf)
+
+**Valoración personal:**
+La página de Lima Housing nos ha resultado original y creemos que tiene bastante potencial. Consideramos que cualquier persona con un perfil joven o con un mínimo conocimiento de la tecnología puede navegar por esta sin ningún problema, pese a algunas mejoras que creemos convenientes como la reducción de cierto texto o un pequeño sitio para el perfil del usuario. Los colores y la temática elegida (la lima) nos parece una idea fresca e innovadora que podría ayudar al hostel a atraer usuarios por la estética renovada. En definitiva, la página es original y es una muy buena idea para un hostel que quiere volver a abrir sus habitaciones al usuario, teniendo distintas temáticas para las habitaciones haciendo que la experiencia sea distinta en cada estancia y que el usuario pueda elegir la que más le guste.
